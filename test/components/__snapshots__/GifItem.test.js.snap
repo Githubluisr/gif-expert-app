@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test on GifItem components Must match snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Title Test"
+      src="https://api.giphy.com/v1/gifs/search?api_key=A97WbUNE1Ed9tUwxzRWgHyKncplinPrf&q=Han%20Solo&limit=10"
+    />
+    <p>
+      Title Test
+    </p>
+  </div>
+</div>
+`;
